@@ -1,0 +1,15 @@
+E:\ProjectWork\Mobile Devolpment\Xamarian Forms\CryptoTracker\Git\CryptoApp\CryptoApp\bin\Debug\netstandard2.0\CryptoApp.deps.json
+E:\ProjectWork\Mobile Devolpment\Xamarian Forms\CryptoTracker\Git\CryptoApp\CryptoApp\bin\Debug\netstandard2.0\CryptoApp.dll
+E:\ProjectWork\Mobile Devolpment\Xamarian Forms\CryptoTracker\Git\CryptoApp\CryptoApp\bin\Debug\netstandard2.0\CryptoApp.pdb
+E:\ProjectWork\Mobile Devolpment\Xamarian Forms\CryptoTracker\Git\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\CryptoApp.csproj.AssemblyReference.cache
+E:\ProjectWork\Mobile Devolpment\Xamarian Forms\CryptoTracker\Git\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\CryptoApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectWork\Mobile Devolpment\Xamarian Forms\CryptoTracker\Git\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\ProjectWork\Mobile Devolpment\Xamarian Forms\CryptoTracker\Git\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\ProjectWork\Mobile Devolpment\Xamarian Forms\CryptoTracker\Git\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\CryptoApp.AssemblyInfoInputs.cache
+E:\ProjectWork\Mobile Devolpment\Xamarian Forms\CryptoTracker\Git\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\CryptoApp.AssemblyInfo.cs
+E:\ProjectWork\Mobile Devolpment\Xamarian Forms\CryptoTracker\Git\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\CryptoApp.csproj.CoreCompileInputs.cache
+E:\ProjectWork\Mobile Devolpment\Xamarian Forms\CryptoTracker\Git\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\XamlC.stamp
+E:\ProjectWork\Mobile Devolpment\Xamarian Forms\CryptoTracker\Git\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\CryptoApp.dll
+E:\ProjectWork\Mobile Devolpment\Xamarian Forms\CryptoTracker\Git\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\refint\CryptoApp.dll
+E:\ProjectWork\Mobile Devolpment\Xamarian Forms\CryptoTracker\Git\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\CryptoApp.pdb
+E:\ProjectWork\Mobile Devolpment\Xamarian Forms\CryptoTracker\Git\CryptoApp\CryptoApp\obj\Debug\netstandard2.0\ref\CryptoApp.dll
