@@ -23,6 +23,8 @@
         <Button Text="Tether"/>
 
         <Button Text="BNB"/>
+
+        <Button Text="DOGE Coin"/>
     </StackLayout>
 
 </ContentPage>
