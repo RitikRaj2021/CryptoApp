@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gao+L/5sPMH0HjHlwGNnQQcSmiYAKANrcEwCEFQKjjDr/utLCyB76FsSzDCPV3DUgfH3137C6I6RbOqz9VpEpg==",
+  "success": true,
+  "projectFilePath": "E:\\ProjectWork\\Mobile Devolpment\\Xamarian Forms\\CryptoTracker\\Git\\CryptoApp\\CryptoApp.iOS\\CryptoApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ritik Local Admin\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Ritik Local Admin\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Ritik Local Admin\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
