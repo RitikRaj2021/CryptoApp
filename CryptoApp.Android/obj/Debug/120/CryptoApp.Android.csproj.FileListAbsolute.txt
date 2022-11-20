@@ -79,6 +79,8 @@ E:\ProjectWork\Mobile Devolpment\Xamarian Forms\CryptoTracker\Git\CryptoApp\Cryp
 E:\ProjectWork\Mobile Devolpment\Xamarian Forms\CryptoTracker\Git\CryptoApp\CryptoApp.Android\obj\Debug\120\android\assets\mscorlib.dll
 E:\ProjectWork\Mobile Devolpment\Xamarian Forms\CryptoTracker\Git\CryptoApp\CryptoApp.Android\obj\Debug\120\android\assets\mscorlib.pdb
 E:\ProjectWork\Mobile Devolpment\Xamarian Forms\CryptoTracker\Git\CryptoApp\CryptoApp.Android\obj\Debug\120\android\assets\netstandard.dll
+E:\ProjectWork\Mobile Devolpment\Xamarian Forms\CryptoTracker\Git\CryptoApp\CryptoApp.Android\obj\Debug\120\android\assets\Newtonsoft.Json.dll
+E:\ProjectWork\Mobile Devolpment\Xamarian Forms\CryptoTracker\Git\CryptoApp\CryptoApp.Android\obj\Debug\120\android\assets\RestSharp.dll
 E:\ProjectWork\Mobile Devolpment\Xamarian Forms\CryptoTracker\Git\CryptoApp\CryptoApp.Android\obj\Debug\120\android\assets\System.ComponentModel.Composition.dll
 E:\ProjectWork\Mobile Devolpment\Xamarian Forms\CryptoTracker\Git\CryptoApp\CryptoApp.Android\obj\Debug\120\android\assets\System.ComponentModel.Composition.pdb
 E:\ProjectWork\Mobile Devolpment\Xamarian Forms\CryptoTracker\Git\CryptoApp\CryptoApp.Android\obj\Debug\120\android\assets\System.Core.dll

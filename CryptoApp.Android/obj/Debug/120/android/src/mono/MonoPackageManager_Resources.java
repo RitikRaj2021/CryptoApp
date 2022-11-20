@@ -5,6 +5,8 @@ public class MonoPackageManager_Resources {
 		"CryptoApp.Android.dll",
 		"CryptoApp.dll",
 		"FormsViewGroup.dll",
+		"Newtonsoft.Json.dll",
+		"RestSharp.dll",
 		"Xamarin.AndroidX.Activity.dll",
 		"Xamarin.AndroidX.Annotation.dll",
 		"Xamarin.AndroidX.Annotation.Experimental.dll",

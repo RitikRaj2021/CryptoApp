@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "KN0wOYkC8gpEoQVLQSHM6mJ/S5aCcfVfg5CIioYwUlL5ERi1Qcr1CJzsXFkBIz+aifCGDvfq+HV4d3SEP+6EUA==",
+  "dgSpecHash": "u9yStaors5VKBLeoeNBsAYCcLi6+/iUBKyBkTJ4OydxX+9I0cC4ZAy5MVvEFCt8ScBH0pOpMMYFVlPdHBs5K9A==",
   "success": true,
   "projectFilePath": "E:\\ProjectWork\\Mobile Devolpment\\Xamarian Forms\\CryptoTracker\\Git\\CryptoApp\\CryptoApp.Android\\CryptoApp.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Ritik Local Admin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Ritik Local Admin\\.nuget\\packages\\restsharp\\106.15.0\\restsharp.106.15.0.nupkg.sha512",
     "C:\\Users\\Ritik Local Admin\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\Ritik Local Admin\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",
     "C:\\Users\\Ritik Local Admin\\.nuget\\packages\\xamarin.androidx.annotation\\1.2.0.1\\xamarin.androidx.annotation.1.2.0.1.nupkg.sha512",

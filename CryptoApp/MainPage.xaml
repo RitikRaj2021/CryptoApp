@@ -4,27 +4,17 @@
              x:Class="CryptoApp.MainPage">
 
     <StackLayout>
-        <Grid>
-            <Frame
-                BackgroundColor="Aquamarine">
-                <Label Text="Crypto Tracker"/>
-            </Frame>
-
-                   
-                
-            
-        </Grid>
-
-        <Button Text="Bitcoin"
-                ImageSource="images/bitcoinIcon.svg"/>
-
-        <Button Text="Ethereum"/>
-
-        <Button Text="Tether"/>
-
-        <Button Text="BNB"/>
-
-        <Button Text="DOGE Coin"/>
+        <ListView x:Name="CoinListView">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ImageCell 
+                        Text="{Binding name}" 
+                        Detail="{Binding price_usd}" 
+                        ImageSource="{Binding id_icon}"/>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Button x:Name="RefreshButton" Clicked="RefreshButton_Clicked"></Button>
     </StackLayout>
 
 </ContentPage>
