@@ -36,15 +36,15 @@ namespace CryptoApp
         {
             List<CoinDB> coins;
 
-            var client = new RestClient("https://rest.coinapi.io/v1/assets/BTC:ETH:XMR:LTC");
+            var client = new RestClient("https://rest.coinapi.io/v1/assets");
             var request = new RestRequest(Method.GET);
             request.AddHeader("X-CoinAPI-Key", apiKey);
 
             //IRestResponse response = client.Execute<List<CoinDB>>(request);
             //var CoinDB = response.Data;
-            //IRestResponse response = client.Execute(request);
+            IRestResponse response = client.Execute(request);
 
-            var response = client.Execute(request);
+            //var response = client.Execute(request);
             //List<CoinDB> coins = JsonConvert.DeserializeObject<List<CoinDB>>(response.Content);
 
             coins = JsonConvert.DeserializeObject<List<CoinDB>>(response.Content);
